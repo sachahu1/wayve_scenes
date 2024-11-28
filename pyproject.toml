@@ -10,6 +10,7 @@ authors = [
     {name = 'Wayve Technologies Ltd', email = 'hello@wayve.ai'},
 ]
 readme = "README.md"
+license = {file = "LICENSE"}
 classifiers = [
     # Choose classifiers from https://pypi.org/classifiers/
     'Development Status :: 3 - Alpha',
